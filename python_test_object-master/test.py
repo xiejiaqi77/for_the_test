@@ -1,8 +1,7 @@
 """
 このファイルに解答コードを書いてください
 """
-file = open("input.txt")
-data = file.read()
+
 new_list = []
 with open("input.txt") as file:
     for l in file:
